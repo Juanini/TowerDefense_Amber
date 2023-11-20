@@ -30,7 +30,18 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
+    - Assembly-CSharp
     - Assembly-CSharp-firstpass
+    - ProCamera2D.Examples
+    - ProCamera2D.Runtime
+    - spine-csharp
+    - spine-unity
+    - spine-unity-examples
+    - UniTask
+    - UniTask.Addressables
+    - UniTask.DOTween
+    - UniTask.Linq
+    - UniTask.TextMeshPro
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
